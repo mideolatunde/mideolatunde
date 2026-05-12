@@ -8,7 +8,7 @@ Outside of data science & geophysics, I am a makeup artist who loves watching mo
   
 😄 Pronouns: she/her  
 📫 How to reach me: 
-**Email**: ayomideeli2002@gmail.com
+**Email**: ayomideeli2002@gmail.com  
 **LinkedIn**: https://linkedin.com/in/ayomide-olatunde-2859141a8
 
 - ⚡ Fun fact: I'm a twin.
