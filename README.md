@@ -7,8 +7,8 @@
 Outside of data science & geophysics, I am a makeup artist who loves watching movies and listening to music. I also enjoy learning new things and make sure i learn something new everyday. I live in Lagos, Nigeria with my family.
   
 😄 Pronouns: she/her  
-📫 How to reach me: 
-**Email**: ayomideeli2002@gmail.com  
-**LinkedIn**: https://linkedin.com/in/ayomide-olatunde-2859141a8
+📫 How to reach me:   
+  - **Email**: ayomideeli2002@gmail.com  
+  - **LinkedIn**: https://linkedin.com/in/ayomide-olatunde-2859141a8
 
 - ⚡ Fun fact: I'm a twin.
