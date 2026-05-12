@@ -1,9 +1,5 @@
 ## Hi there, Welcome to my page 👋
 
-<!--
-**mideolatunde/mideolatunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - &#128105 I’m Ayomide Olatunde. I am a junior data scientist based in Lagos, Nigeria.
 - 🌱 I’m currently learning Data Science with She Code Africa Academy and I work on data science projects using Python.
@@ -11,8 +7,8 @@ My background is in Geophysics, and i have recently started transitioning to dat
 - 👯 I’m looking to collaborate on different real world data science projects and hackathons....
 
 - Outside of data science & geophysics, I am a makeup artist who loves watching movies and listening to music. I also enjoy learning new things and make sure i learn something new everyday. I live in Lagos, Nigeria with my family.
+  
+- 😄 Pronouns: she/her
+- 📫 How to reach me: 
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I'm a twin.
